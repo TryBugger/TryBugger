@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @TryBugger
-- 👀 I’m interested in Game Development and AI
-- 🌱 I’m currently learning Java, C++, Python, and Game Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Data-related Field, especially Data Science and Machine Learning
+- 🌱 I have knowledge in Python, C++, Pandas, Numpy, Scikit-Learn
 
 <!---
 TryBugger/TryBugger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
